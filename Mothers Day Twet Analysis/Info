@@ -1,1 +1,3 @@
 
+The Mother's Day Tweet Analysis is a Sentiment Analysis task in which i have tried to build a model which will classify tweets as positive(0) and negative(-1) sentiment.
+After doing the necessary text processing i have tried to implement the Logistic Regression model to try and classify the texts.
