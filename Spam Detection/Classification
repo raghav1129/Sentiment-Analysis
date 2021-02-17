@@ -1,1 +1,6 @@
+Spam Detection is a Classification task used to classify text sms as Spam and Ham
+The csv files conatins two columns: 
+v1 : which is the label ('ham', 'spam')
+v2 : the text matches.
 
+We try to classify the text into Spam or Ham using Natural Language Processing NLTK and perform the required text-processing. I try to implement two models here the the Naive Bayes model and the Random Forest model and check their accuracy.
